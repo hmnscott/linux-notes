@@ -59,7 +59,8 @@ w
 # displays your login name
 whoami
 
-# displays the numbers associated with your user account name and group names; these are commonly referred to as User IDs (UIDs) and Group IDs (GIDs)
+# displays the numbers associated with your user account name and group names
+# these are commonly referred to as User IDs (UIDs) and Group IDs (GIDs)
 id
 
 # displays the current date and time
@@ -114,6 +115,9 @@ info whoami
 
 # display help for builtin bash command
 help echo
+
+# display description of command
+whatis whoami
 ```
 
 #### Manual page section numbers
@@ -164,3 +168,6 @@ reboot
 # Use the `wall` (warn all) command to send a message to all users on system
 wall The system is shutting down in 15 minutes. Save your work and log off before then.
 ```
+
+* On the terminal screen press `Shift+Page Up` to view previous pages of information.
+* Single quotes prevent the shell from interpreting a metacharacter's special meaning.
