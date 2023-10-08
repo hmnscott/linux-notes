@@ -1,6 +1,6 @@
 # Linux Notes
 
-My Linux notes from various sources.
+Linux notes (and other topics) from various sources.
 
 
 

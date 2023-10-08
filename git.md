@@ -220,7 +220,7 @@ Note, you can checkout a previous commit and create a new branch with `git branc
 
 
 ## A better git log
-The below if from the article [A better git log](https://coderwall.com/p/euwpig/a-better-git-log).
+The below is from the article [A better git log](https://coderwall.com/p/euwpig/a-better-git-log).
 
 Copy and paste the line below on your terminal:
 ```
