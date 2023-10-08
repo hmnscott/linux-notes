@@ -5,8 +5,13 @@
 # check if ufw is installed
 which ufw
 
+# install ufw
+sudo apt install ufw
+
 # check status
 sudo ufw status
+sudo ufw status verbose
+sudo ufw status numbered
 sudo ufw status numbered verbose
 
 # enable/disable ufw
